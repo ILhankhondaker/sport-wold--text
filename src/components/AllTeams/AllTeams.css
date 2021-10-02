@@ -9,7 +9,8 @@
   height: 405px;
   border: 1px solid gray;
   margin-top: 10px;
-
+border-radius: 10px;
+margin-bottom: 10px;
   /* background-color: #000; */
 }
 .text-area {
